@@ -1,0 +1,18 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+	text-align:center;
+}
+h2 {
+  color:red;
+  text-align:center;
+}
+table, th, td {
+  border: 2px solid black;
+}
+
+p {
+  color:white;
+}
